@@ -1,5 +1,5 @@
 {
-  "segment_size": "30000",
+  "segment_size": "40000",
   "storage_location": "storage/location_now",
   "supportedFormats": [
     "txt",
